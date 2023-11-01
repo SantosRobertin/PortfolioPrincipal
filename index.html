@@ -3,7 +3,6 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Roberto Santos</title>
 
     <link rel="stylesheet" href="https://fonts.gstatic.com" />
     <link
@@ -16,15 +15,58 @@
     <script src="https://unpkg.com/@phosphor-icons/web"></script>
 
     <!-- Script AOS - Animações -->
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
 
+    <!-- Primary Meta Tags -->
+    <title>Roberto Santos - Portfólio</title>
+    <meta name="title" content="Roberto Santos - Portfólio" />
+    <meta
+      name="description"
+      content="Possuo foco em desenvolvimento com HTML, CSS, JavaScript e React(estudando) e outras tecnologias que estou estudando para criar aplicações web de alto nível e valor.
+
+    Me considero focado e determinado para entrar na profissão, mesmo que seja preciso aprender uma nova linguagem e se adaptar às mudanças, estou pronto para superar qualquer desafio! :)"
+    />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://portfolio-betoxdev.netlify.app/" />
+    <meta property="og:title" content="Roberto Santos - Portfólio" />
+    <meta
+      property="og:description"
+      content="Possuo foco em desenvolvimento com HTML, CSS, JavaScript e React(estudando) e outras tecnologias que estou estudando para criar aplicações web de alto nível e valor.
+
+    Me considero focado e determinado para entrar na profissão, mesmo que seja preciso aprender uma nova linguagem e se adaptar às mudanças, estou pronto para superar qualquer desafio! :)"
+    />
+    <meta
+      property="og:image"
+      content="hhttps://portfolio-betoxdev.netlify.app/assets/port-img.jpg"
+    />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta
+      property="twitter:url"
+      content="https://portfolio-betoxdev.netlify.app/"
+    />
+    <meta property="twitter:title" content="Roberto Santos - Portfólio" />
+    <meta
+      property="twitter:description"
+      content="Possuo foco em desenvolvimento com HTML, CSS, JavaScript e React(estudando) e outras tecnologias que estou estudando para criar aplicações web de alto nível e valor.
+
+    Me considero focado e determinado para entrar na profissão, mesmo que seja preciso aprender uma nova linguagem e se adaptar às mudanças, estou pronto para superar qualquer desafio! :)"
+    />
+    <meta
+      property="twitter:image"
+      content="hhttps://portfolio-betoxdev.netlify.app/assets/port-img.jpg"
+    />
   </head>
   <body>
     <div class="app">
-      <section class="card user"
-      data-aos="fade-right"
-      data-aos-duration="800"
-      data-aos-easing="ease-in-out"
+      <section
+        class="card user"
+        data-aos="fade-right"
+        data-aos-duration="800"
+        data-aos-easing="ease-in-out"
       >
         <picture>
           <img src="./assets/me.jpeg" alt="Foto de Perfil" />
@@ -68,10 +110,11 @@
         </div>
       </section>
 
-      <section class="card about"
-      data-aos="fade-left"
-      data-aos-duration="800"
-      data-aos-easing="ease-in-out"
+      <section
+        class="card about"
+        data-aos="fade-left"
+        data-aos-duration="800"
+        data-aos-easing="ease-in-out"
       >
         <h2 class="subtitle">Sobre</h2>
         <p>
@@ -98,16 +141,15 @@
         </p>
       </section>
 
-      <section class="card projects"
-      data-aos="fade-up"
-      data-aos-duration="800"
-      data-aos-easing="ease-in-out"
+      <section
+        class="card projects"
+        data-aos="fade-up"
+        data-aos-duration="800"
+        data-aos-easing="ease-in-out"
       >
         <h2 class="subtitle">Projetos</h2>
 
-        <div id="project__content">
-          
-        </div>
+        <div id="project__content"></div>
       </section>
     </div>
 
@@ -115,8 +157,7 @@
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
     <script>
-      AOS.init({ once: true })
+      AOS.init({ once: true });
     </script>
-
   </body>
 </html>

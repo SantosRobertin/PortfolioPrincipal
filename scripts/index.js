@@ -5,7 +5,7 @@ const createImage = (projectImage, projectName) => {
   const elemImg = document.createElement("img");
 
   elemImg.setAttribute("src", projectImage);
-  elemImg.setAttribute("alt", "Imagem de capa do projeto" + projectName);
+  elemImg.setAttribute("alt", "Imagem de capa do projeto " + projectName);
 
   elemPicture.appendChild(elemImg);
 

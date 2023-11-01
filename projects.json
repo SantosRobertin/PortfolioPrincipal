@@ -1,5 +1,11 @@
 [
   {
+    "name": "50 Projetos em 50 dias",
+    "image": "./assets/50projects.jpg",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "link": "https://github.com/SantosRobertin/50projects50days"
+  },
+  {
     "name": "Projeto NLW eSports da Rocketseat",
     "image": "./assets/projeto-nlw.png",
     "tags": ["HTML", "CSS", "JavaScript"],

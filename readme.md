@@ -35,4 +35,4 @@ Esse Portfólio foi desenvolvido para ser a minha apresetação profissional, ad
 
 ---
 
-<p align="center">by BetoX.dev</p>
+<p align="center">by betox.santos</p>

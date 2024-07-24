@@ -1,32 +1,50 @@
 [
   {
-    "name": "50 Projetos em 50 dias",
-    "image": "./assets/50projects.jpg",
-    "tags": ["HTML", "CSS", "JavaScript"],
-    "link": "https://github.com/SantosRobertin/50projects50days"
+    "name": "Formulário HTML e CSS + Netlify Forms",
+    "image": "./assets/formulário+Netlify.jpg",
+    "tags": ["HTML", "CSS", "JavaScript", "Netlify Forms"],
+    "link": "https://github.com/SantosRobertin/FormularioNetlify"
   },
+
+  {
+    "name": "The Super Mario Bros",
+    "image": "./assets/mario.png",
+    "tags": ["HTML", "CSS"],
+    "link": "https://github.com/SantosRobertin/The-Super-Mario-Bros"
+  },
+
   {
     "name": "Projeto NLW eSports da Rocketseat",
     "image": "./assets/projeto-nlw.png",
     "tags": ["HTML", "CSS", "JavaScript"],
     "link": "https://github.com/SantosRobertin/Projeto-NLW-eSports"
   },
-  {
-    "name": "Meu primeiro Portfólio :)",
-    "image": "./assets/primeiroPortfolio.jpg",
-    "tags": ["HTML", "CSS", "JavaScript"],
-    "link": "https://github.com/SantosRobertin/portfolio"
-  },
+
   {
     "name": "Relógio Digital",
     "image": "./assets/relogioDigital.jpg",
     "tags": ["HTML", "CSS", "JavaScript"],
     "link": "https://github.com/SantosRobertin/Relogio-Digital"
   },
+
   {
     "name": "Calculadora de IMC",
     "image": "./assets/calcIMC.png",
     "tags": ["HTML", "CSS", "JavaScript"],
     "link": "https://github.com/SantosRobertin/Calculadora-de-IMC"
+  },
+
+  {
+    "name": "50 Projetos em 50 dias",
+    "image": "./assets/50projects.jpg",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "link": "https://github.com/SantosRobertin/50projects50days"
+  },
+
+  {
+    "name": "Meu primeiro Portfólio :)",
+    "image": "./assets/primeiroPortfolio.jpg",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "link": "https://github.com/SantosRobertin/portfolio"
   }
 ]

@@ -1,7 +1,7 @@
-[
+[ 
   {
     "name": "Formulário HTML e CSS + Netlify Forms",
-    "image": "./assets/formulário+Netlify.jpg",
+    "image": "./assets/Formulário+Netlify.jpg",
     "tags": ["HTML", "CSS", "JavaScript", "Netlify Forms"],
     "link": "https://github.com/SantosRobertin/FormularioNetlify"
   },
@@ -14,10 +14,24 @@
   },
 
   {
-    "name": "Projeto NLW eSports da Rocketseat",
-    "image": "./assets/projeto-nlw.png",
+    "name": "Spotify Page",
+    "image": "/assets/spotifypage.png",
+    "tags": ["HTML", "CSS"],
+    "link": "https://github.com/SantosRobertin.github.io/Spotify/"
+  },
+
+  {
+    "name": "Microsoft Page",
+    "image": "/assets/microsoftPage.png",
+    "tags": ["HTML", "CSS"],
+    "link": "https://github.com/SantosRobertin/Microsoft-Page"
+  },
+
+  {
+    "name": "Cafeteria",
+    "image": "./assets/coffe-page.png",
     "tags": ["HTML", "CSS", "JavaScript"],
-    "link": "https://github.com/SantosRobertin/Projeto-NLW-eSports"
+    "link": "https://github.com/SantosRobertin/Coffe-Page"
   },
 
   {
@@ -35,16 +49,16 @@
   },
 
   {
-    "name": "50 Projetos em 50 dias",
-    "image": "./assets/50projects.jpg",
-    "tags": ["HTML", "CSS", "JavaScript"],
-    "link": "https://github.com/SantosRobertin/50projects50days"
-  },
-
-  {
     "name": "Meu primeiro Portfólio :)",
     "image": "./assets/primeiroPortfolio.jpg",
     "tags": ["HTML", "CSS", "JavaScript"],
     "link": "https://github.com/SantosRobertin/portfolio"
+  },
+
+  {
+    "name": "50 Projetos em 50 dias",
+    "image": "./assets/50projects.jpg",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "link": "https://github.com/SantosRobertin/50projects50days"
   }
 ]

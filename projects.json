@@ -17,7 +17,7 @@
     "name": "Spotify Page",
     "image": "/assets/spotifypage.png",
     "tags": ["HTML", "CSS"],
-    "link": "https://github.com/SantosRobertin.github.io/Spotify/"
+    "link": "https://github.com/SantosRobertin/Spotify/"
   },
 
   {
@@ -31,7 +31,7 @@
     "name": "Cafeteria",
     "image": "./assets/coffe-page.png",
     "tags": ["HTML", "CSS", "JavaScript"],
-    "link": "https://github.com/SantosRobertin/Coffe-Page"
+    "link": "https://github.com/SantosRobertin/coffee-page"
   },
 
   {

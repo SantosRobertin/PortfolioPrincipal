@@ -1,4 +1,16 @@
-[ 
+  [ 
+  {
+    "name": "Front-end + Back-End (api)",
+    "image": "./assets/front+back.png",
+    "tags": ["React", "Vite", "JavaScript", "Node", "Mongo DB", "Prisma"],
+    "link": "https://github.com/SantosRobertin/Front---Back/"
+  },
+  {
+    "name": "Formulário HTML e CSS + Netlify Forms",
+    "image": "./assets/Formulário+Netlify.jpg",
+    "tags": ["HTML", "CSS", "JavaScript", "Netlify Forms"],
+    "link": "https://github.com/SantosRobertin/FormularioNetlify"
+  },
   {
     "name": "Formulário HTML e CSS + Netlify Forms",
     "image": "./assets/Formulário+Netlify.jpg",

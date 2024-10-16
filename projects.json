@@ -1,23 +1,16 @@
   [ 
   {
-    "name": "Front-end + Back-End (api)",
+    "name": "Cadastro de Usuários",
     "image": "./assets/front+back.png",
     "tags": ["React", "Vite", "JavaScript", "Node", "Mongo DB", "Prisma"],
     "link": "https://github.com/SantosRobertin/Front---Back/"
   },
   {
-    "name": "Formulário HTML e CSS + Netlify Forms",
+    "name": "Formulário + Netlify Forms",
     "image": "./assets/Formulário+Netlify.jpg",
     "tags": ["HTML", "CSS", "JavaScript", "Netlify Forms"],
     "link": "https://github.com/SantosRobertin/FormularioNetlify"
   },
-  {
-    "name": "Formulário HTML e CSS + Netlify Forms",
-    "image": "./assets/Formulário+Netlify.jpg",
-    "tags": ["HTML", "CSS", "JavaScript", "Netlify Forms"],
-    "link": "https://github.com/SantosRobertin/FormularioNetlify"
-  },
-
   {
     "name": "The Super Mario Bros",
     "image": "./assets/mario.png",
@@ -42,7 +35,7 @@
   {
     "name": "Cafeteria",
     "image": "./assets/coffe-page.png",
-    "tags": ["HTML", "CSS", "JavaScript"],
+    "tags": ["HTML", "CSS"],
     "link": "https://github.com/SantosRobertin/coffee-page"
   },
 

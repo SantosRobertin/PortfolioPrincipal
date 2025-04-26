@@ -1,69 +1,32 @@
   [ 
   {
-    "name": "Cadastro de Usuários",
-    "image": "./assets/front+back.png",
-    "tags": ["React", "Vite", "JavaScript", "Node", "Mongo DB", "Prisma"],
-    "link": "https://github.com/SantosRobertin/Front---Back/"
+    "name": "Dashboard - CONTROLE DE VENDAS",
+    "image": "./assets/bi-controle-vendas.png",
+    "tags": ["Excel", "SQL", "Power BI"],
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiYjY3YzM5MTYtZjkzMy00ZjNhLTg5NzctMmRiNjE3M2U0NzM5IiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
   },
   {
-    "name": "Formulário + Netlify Forms",
-    "image": "./assets/Formulário+Netlify.jpg",
-    "tags": ["HTML", "CSS", "JavaScript", "Netlify Forms"],
-    "link": "https://github.com/SantosRobertin/FormularioNetlify"
+    "name": "Dashboard - METAS E RESULTADOS",
+    "image": "/assets/bi-meta-result.png",
+    "tags": ["Excel", "SQL", "Power BI"],
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiZGQ2Njk2NzUtYTNmNy00YzgyLThiMzAtNGYwNDhiNjczMzllIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
   },
   {
-    "name": "The Super Mario Bros",
-    "image": "./assets/mario.png",
-    "tags": ["HTML", "CSS"],
-    "link": "https://github.com/SantosRobertin/The-Super-Mario-Bros"
+    "name": "Dashboard - LOCADORA DE VEICULOS",
+    "image": "./assets/bi-locadora-veiculos.png",
+    "tags": ["Excel", "SQL", "Power BI"],
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiYTRhNjU5ZGUtZDYxMS00MjM2LTgwZjAtMzc4NjI2NjU0N2IxIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
   },
-
   {
-    "name": "Spotify Page",
-    "image": "/assets/spotifypage.png",
-    "tags": ["HTML", "CSS"],
-    "link": "https://github.com/SantosRobertin/Spotify/"
+    "name": "Dashborad - RH",
+    "image": "./assets/bi-rh.png",
+    "tags": ["Excel", "SQL", "Power BI"],
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiMzI3YmIzMmUtYmVkMS00Yjk1LWIyNzQtNGVhNzM4NWM5MjgyIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
   },
-
   {
-    "name": "Microsoft Page",
-    "image": "/assets/microsoftPage.png",
-    "tags": ["HTML", "CSS"],
-    "link": "https://github.com/SantosRobertin/Microsoft-Page"
-  },
-
-  {
-    "name": "Cafeteria",
-    "image": "./assets/coffe-page.png",
-    "tags": ["HTML", "CSS"],
-    "link": "https://github.com/SantosRobertin/coffee-page"
-  },
-
-  {
-    "name": "Relógio Digital",
-    "image": "./assets/relogioDigital.jpg",
-    "tags": ["HTML", "CSS", "JavaScript"],
-    "link": "https://github.com/SantosRobertin/Relogio-Digital"
-  },
-
-  {
-    "name": "Calculadora de IMC",
-    "image": "./assets/calcIMC.png",
-    "tags": ["HTML", "CSS", "JavaScript"],
-    "link": "https://github.com/SantosRobertin/Calculadora-de-IMC"
-  },
-
-  {
-    "name": "Meu primeiro Portfólio :)",
-    "image": "./assets/primeiroPortfolio.jpg",
-    "tags": ["HTML", "CSS", "JavaScript"],
-    "link": "https://github.com/SantosRobertin/portfolio"
-  },
-
-  {
-    "name": "50 Projetos em 50 dias",
-    "image": "./assets/50projects.jpg",
-    "tags": ["HTML", "CSS", "JavaScript"],
-    "link": "https://github.com/SantosRobertin/50projects50days"
+    "name": "Dashboard - VENDAS E DEVOLUÇÕES",
+    "image": "/assets/bi-vend-devo.png",
+    "tags": ["Excel", "SQL", "Power BI"],
+    "link": "https://app.powerbi.com/view?r=eyJrIjoiMDc1ZDI2MjYtZWY2MS00ZjQzLTliNzctMzZhZWRjMzAyMWQ3IiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
   }
 ]

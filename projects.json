@@ -30,13 +30,13 @@
     "link": "https://app.powerbi.com/view?r=eyJrIjoiYTRhNjU5ZGUtZDYxMS00MjM2LTgwZjAtMzc4NjI2NjU0N2IxIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
   },
   {
-    "name": "Dashborad - RH",
+    "name": "Dashboard - RH",
     "image": "./assets/bi-rh.png",
     "tags": ["Excel", "SQL", "Power BI"],
     "link": "https://app.powerbi.com/view?r=eyJrIjoiMzI3YmIzMmUtYmVkMS00Yjk1LWIyNzQtNGVhNzM4NWM5MjgyIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9"
   },
   {
-    "name": "Dashboard - VENDAS PRODUTROS",
+    "name": "Dashboard - VENDAS DE PRODUTOS",
     "image": "/assets/bi-vend-prod.png",
     "tags": ["Excel", "SQL", "Power BI"],
     "link": "https://app.powerbi.com/view?r=eyJrIjoiNDY0ZGU2MjEtM2E4NC00ZTNhLTk2YmUtNmFhMzcyMjBhYzdjIiwidCI6IjA1NjMyNmE3LTM2YmItNDMyYi04ZTMxLTQxZGU1YTUzNGUyNCJ9&pageName=4f10e822aaaba90870e4"

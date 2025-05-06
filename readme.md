@@ -29,7 +29,7 @@ O Portfólio foi desenvolvido utilizando as linguagens HTML, CSS, JavaScript, e 
 
 ### 💻 Sobre o Projeto
 
-Este portfólio foi desenvolvido como uma vitrine profissional, destacando minhas habilidades, experiência e projetos desenvolvidos. Ele reflete meu compromisso com a excelência e o crescimento contínuo na área de Análise e Desenvolvimento de Sistemas. Além de aprimorar constantemente seu conteúdo, busco agregar melhorias visuais e técnicas que melhor representam meu trabalho. Meu objetivo é demonstrar minhas competências de forma clara e objetiva, conectando-me com oportunidades que permitam meu desenvolvimento profissional.
+Este portfólio foi desenvolvido como uma vitrine profissional, destacando minhas habilidades, experiência e projetos desenvolvidos. Ele reflete meu compromisso com a excelência e o crescimento contínuo na área de Análise de Dados. Além de aprimorar constantemente seu conteúdo, busco agregar melhorias visuais e técnicas que melhor representam meu trabalho. Meu objetivo é demonstrar minhas competências de forma clara e objetiva, conectando-me com oportunidades que permitam meu desenvolvimento profissional.
 
 <br>
 
